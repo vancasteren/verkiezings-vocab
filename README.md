@@ -1,2 +1,2 @@
-# verkiezings-vocab
+# verkiezingsvocab
 Frequency analysis of election programmes for Dutch parliamentary elections 2021
