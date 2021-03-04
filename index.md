@@ -2,7 +2,7 @@
 
 _Verkiezingsvocabulaire vergeleken_
 
-In de aanloop naar de Tweede Kamerverkiezingen hebben de deelnemende politieke partijen hun verkiezingsprogramma’s gepresenteerd. Ik heb onderzocht in hoeverre verschillende partijen in hun programma’s dezelfde woorden gebruiken. Hiervoor heb ik technieken gebruikt uit Text Mining, het vakgebied op het snijvlak tussen Kunstmatige Intelligentie en Taalwetenschap. Het gehele onderzoeksverslag vindt u [hier](https://github.com/vancasteren/verkiezingsvocab/blob/gh-pages/verkiezingsvocabulaire-vergeleken.pdf). Ik zal de gedane observaties die het meest in het oog springen kort samenvatten.
+In de aanloop naar de Tweede Kamerverkiezingen hebben de deelnemende politieke partijen hun verkiezingsprogramma’s gepresenteerd. Ik heb onderzocht in hoeverre verschillende partijen in hun programma’s dezelfde woorden gebruiken. Hiervoor heb ik technieken gebruikt uit Text Mining, het vakgebied op het snijvlak tussen Kunstmatige Intelligentie en Taalwetenschap. Het gehele onderzoeksverslag vindt u <a href="verkiezingsvocabulaire-vergeleken.pdf" target="_blank">hier</a>. Ik zal de gedane observaties die het meest in het oog springen kort samenvatten.
 
 De ChristenUnie is qua taal de ultieme middenpartij van deze verkiezingen. Het verkiezingsprogramma van CU komt gemiddeld het meest overeen met die van de overige partijen; daarnaast is de CU voor liefst zes medepartijen het meest nabij gelegen. D66 is een goede tweede middenpartij; D66 heeft de op-één-na-hoogste gemiddelde overeenkomst en is tevens voor vier partijen het meest nabij gelegen.
 
