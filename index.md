@@ -4,7 +4,7 @@ _De taal van de verkiezingsprogramma’s voor de Tweede Kamerverkiezingen van 17
 
 _Jan van Casteren_
 
-In de aanloop naar de Tweede Kamerverkiezingen hebben de deelnemende politieke partijen hun verkiezingsprogramma’s gepresenteerd. Ik heb onderzocht in hoeverre verschillende partijen in hun programma’s dezelfde woorden gebruiken. Hiervoor heb ik technieken gebruikt uit Text Mining, het vakgebied op het snijvlak tussen Kunstmatige Intelligentie en Taalwetenschap. <a href="verkiezingsvocabulaire-vergeleken.pdf" target="_blank">Het gehele onderzoeksverslag vindt u hier</a>. Ik zal de gedane observaties die het meest in het oog springen kort samenvatten. Daarna laat ik de belangrijkste tabellen uit het onderzoek zien en licht ik deze kort toe.
+In de aanloop naar de Tweede Kamerverkiezingen hebben de deelnemende politieke partijen hun verkiezingsprogramma’s gepresenteerd. Ik heb onderzocht in hoeverre verschillende partijen in hun programma’s dezelfde woorden gebruiken. Hiervoor heb ik technieken gebruikt uit Text Mining, het vakgebied op het snijvlak tussen Kunstmatige Intelligentie en Taalwetenschap. <a href="verkiezingsvocabulaire-vergeleken.pdf" target="_blank">Het gehele onderzoeksverslag vindt u hier.</a> Ik zal de gedane observaties die het meest in het oog springen kort samenvatten. Daarna laat ik de belangrijkste tabellen uit het onderzoek zien en licht ik deze kort toe.
 
 ## Samenvatting
 
