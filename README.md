@@ -1,5 +1,5 @@
 # verkiezingsvocab
-Frequency analysis of election programmes for Dutch parliamentary elections 2021
+Quantitative analysis of election programmes for Dutch parliamentary elections 2021
 
 Script notebook: *verkiezingsvocabulaire-vergeleken.ipynb*
 
