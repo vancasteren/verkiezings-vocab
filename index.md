@@ -1,6 +1,6 @@
 # Verkiezingsvocabulaire vergeleken
 
-_De taal van de verkiezingsprogramma’s voor de Tweede Kamerverkiezingen van 17 maart 2021 onderzocht. _
+_De taal van de verkiezingsprogramma’s voor de Tweede Kamerverkiezingen van 17 maart 2021 onderzocht._
 
 _Jan van Casteren_
 
