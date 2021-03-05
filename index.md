@@ -1,6 +1,8 @@
-### Verkiezingsvocabulaire vergeleken
+# Verkiezingsvocabulaire vergeleken
 
 _Verkiezingsvocabulaire vergeleken_
+
+## Samenvatting
 
 In de aanloop naar de Tweede Kamerverkiezingen hebben de deelnemende politieke partijen hun verkiezingsprogramma’s gepresenteerd. Ik heb onderzocht in hoeverre verschillende partijen in hun programma’s dezelfde woorden gebruiken. Hiervoor heb ik technieken gebruikt uit Text Mining, het vakgebied op het snijvlak tussen Kunstmatige Intelligentie en Taalwetenschap. Het gehele onderzoeksverslag vindt u <a href="verkiezingsvocabulaire-vergeleken.pdf" target="_blank">hier</a>. Ik zal de gedane observaties die het meest in het oog springen kort samenvatten.
 
@@ -15,3 +17,36 @@ Verder interessant is de toegenomen overeenkomst van de VVD met de PvdD en Groen
 CU en D66 hebben sinds 2017 hun middenposities (nog) verder verstevigd. In 2017 was CU voor vier partijen de meest nabij gelegen partij, nu noteert de CU er zes. Voor D66 waren dit er drie, nu vier.
 
 Tot slot: het valt op dat de deelnemende partijen ten opzichte van 2017 in toenemende mate dezelfde taal zijn gaan hanteren. Het stempel dat door COVID-19 op de verkiezingen wordt gedrukt, zou hieraan ten grondslag kunnen liggen. Het zou echter ook het geval kunnen zijn dat de partijen simpelweg naar elkaar toe zijn bewogen.
+
+## Toelichting
+In deze sectie toon ik een aantal gegenereerde grafieken en licht ik deze kort toe.
+
+### Mate van overeenkomstigheid
+
+De volgende figuur toont de mate van overeenkomstigheid qua vocabulaire tussen de verkiezingsprogramma's van politieke partijen.
+
+![image](img/mate-van-overeenkomstigheid.png)
+
+Het verkiezingsprogramma van CU komt gemiddeld het meest overeen met die van de overige partijen; daarnaast is de CU voor liefst zes medepartijen het meest nabij gelegen. D66 is een goede tweede middenpartij; D66 heeft de op-één-na-hoogste gemiddelde overeenkomst en is tevens voor vier partijen het meest nabij gelegen.
+
+### Gemiddelde overeenkomstigheid met andere partijen
+
+In deze figuur ziet u de gemiddelde overeenkomstigheid van een partij ten opzichte van alle andere partijen.
+
+![image](img/gem_overeenkomst.png)
+
+Ook in deze figuur toont de ChristenUnie haar aard als totale middenpartij.
+
+### Consistentie
+
+De volgende figuur laat zien in hoeverre partijen woord houden. In hoeverre hanteren partijen dezelfde woorden ten opzichte van het verkiezingsprogramma voor de verkiezingen van 2017?
+
+![image](img/consistentie.png)
+
+### Transities
+
+De laatste figuur laat zien in hoeverre de overeenkomstigheden tussen de programma's zijn veranderd ten opzihte van 2017.
+
+![image](img/verschuiving-overeenkomstigheid.png)
+
+
