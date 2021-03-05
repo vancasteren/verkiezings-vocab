@@ -57,3 +57,5 @@ De laatste figuur laat zien in hoeverre de overeenkomstigheden tussen de program
 
 Ten opzichte van de vorige Tweede Kamerverkiezingen zijn SP en CDA meer hun eigen verhaal gaan vertellen. Met minder goede wil zou men kunnen stellen dat deze partijen meer op een eiland zijn beland. 50PLUS en DENK laten een tegenovergestelde beweging zien, en staan t.o.v. de vorige verkiezingen juist beduidend meer in het talige centrum.
 Verder interessant is de toegenomen overeenkomst van de VVD met de PvdD en GroenLinks; de "GroenRechts"-agenda van de VVD lijkt te zijn afgestoft. Ook is er sprake van een zekere mate van verwijdering tussen de coalitiepartijen.
+
+Bedankt voor uw tijd en aandacht. Wie meer wil weten over dit onderzoek, vindt  <a href="verkiezingsvocabulaire-vergeleken.pdf" target="_blank">hier</a> een gedetailleerd verslag.
