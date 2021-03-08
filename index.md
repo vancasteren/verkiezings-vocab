@@ -1,4 +1,4 @@
-# Verkiezingsvocabulaire vergeleken
+# De ChristenUnie is de ultieme middenpartij. Verkiezingsvocabulaire vergeleken
 
 _De taal van de verkiezingsprogramma’s voor de Tweede Kamerverkiezingen van 17 maart 2021 onderzocht._
 
