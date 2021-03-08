@@ -24,6 +24,8 @@ Tot slot: het valt op dat de deelnemende partijen ten opzichte van 2017 in toene
 
 ## Toelichting
 
+Aan de hand van vier figuren zal ik kort toelichten waarop bovenstaande observaties zijn gebaseerd. Als eerst laat ik zien in welke mate de woordenschat van de verschillende partijen overeen komt. Vervolgens bespreek ik voor iedere partij de gemiddelde overeenkomstigheid met de overige partijen. Als derde toon ik in hoeverre de verschillende partijen hetzelfde woordgebruik hanteren als in hun vorige verkiezingsprogramma uit 2017. Tot slot zal ik laten zien op welke manier de overeenkomsten tussen de verschillende partijen ten opzichte van 2017 zijn veranderd.
+
 ### Mate van overeenkomstigheid
 
 De volgende figuur toont de mate van overeenkomstigheid qua vocabulaire tussen de verkiezingsprogramma's van politieke partijen.
